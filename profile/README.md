@@ -4,4 +4,4 @@
 
 Espacio de trabajo para ejemplos, tareas y proyectos en C++.
 
-Te encuentras en la vista pública de esta organización. Solicta acceso a la privada a tu profesor ricardo.quintero@tec.mx
+Te encuentras en la vista pública de esta organización. Solicita a tu profesor ricardo.quintero@tec.mx acceso a la vista privada.
